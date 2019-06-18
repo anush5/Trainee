@@ -10,6 +10,10 @@
 	{
 		echo "Greater";
 	}
+	if($z<10)
+	{
+		echo "Smaller";
+	}
 
 
 
