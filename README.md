@@ -1,2 +1,0 @@
-# Trainee
-tutorial testing
